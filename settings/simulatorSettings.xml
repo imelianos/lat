@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Care when changing this file</comment>
+<entry key="meanTreatmentDuration">1.0</entry>
+<entry key="meanDoctorVisitDuration">1.0</entry>
+<entry key="meanOtherTestsDuration">1.0</entry>
+<entry key="numberOfDoctors">2</entry>
+<entry key="numberOfNurses">6</entry>
+<entry key="meanNurseVisitDuration">2.0</entry>
+<entry key="meanXrayDuration">2.0</entry>
+<entry key="meanPauseBetweenDoctorVisits">1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0</entry>
+<entry key="meanTriageDuration">2.0</entry>
+<entry key="meanRegistrationDuration">2.0</entry>
+<entry key="meanArrivalStallTime">2.0</entry>
+<entry key="9">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</entry>
+<entry key="8">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</entry>
+<entry key="7">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,1.0</entry>
+<entry key="6">0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0</entry>
+<entry key="meanHourlyArrivalInterval">1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0</entry>
+<entry key="5">0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0</entry>
+<entry key="4">0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0</entry>
+<entry key="3">0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0</entry>
+<entry key="2">0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0</entry>
+<entry key="1">0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</entry>
+<entry key="0">0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</entry>
+</properties>
